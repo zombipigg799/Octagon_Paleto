@@ -1,0 +1,20 @@
+<CodeWalkerProject>
+  <Name>Octagon</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>octagon paleto\stream\map1.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>v_int_46.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
